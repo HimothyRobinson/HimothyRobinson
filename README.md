@@ -10,11 +10,11 @@
 <h2>📝 Research Papers:</h2>
 
 - <b>[Steganography or Steganalysis](https://github.com/HimothyRobinson/SteganographyOrSteganalysis.git)</b>
-- <b>What is Interdisciplinarity?</b>
+- <b>[What is Interdisciplinarity?](https://github.com/HimothyRobinson/WhatIsInterdisciplinarity.git)</b>
 - <b>[Interdisciplinary Study: Advancements in Profession](https://github.com/HimothyRobinson/InterdisciplinaryStudy.git)</b>
 - <b>[Carpenter V. United States Analysis](https://github.com/HimothyRobinson/CarpenterV.States.git)</b>
-- <b>Balancing LIfe: Work, Leisure, and Living</b>
-- <b>Importance of Employee Health</b>
+- <b>[Balancing LIfe: Work, Leisure, and Living](https://github.com/HimothyRobinson/BalancingLife.git)/</b>
+- <b>[Importance of Employee Health](https://github.com/HimothyRobinson/EmployeeHealth.git)</b>
 - <b>[Mock Business Plan](https://github.com/HimothyRobinson/MockBusinessPlan.git)</b>
 
 <h2> 🤳 Connect with me:</h2>
