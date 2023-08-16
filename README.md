@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tim! <br/>
-  Cybersecurity Graduate</a>
+  ODU Cybersecurity Graduate</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,6 +7,15 @@
 - <b>[System Password Cracking](https://github.com/HimothyRobinson/PasswordCrackingLab.git) </b>
 - <b>[Wireless Traffic Analysis](https://github.com/HimothyRobinson/CrackingAndAnalysisLab.git) </b>
 
+<h2>📝 Research Papers:</h2>
+
+- <b>Steganography or Steganalysis</b>
+- <b>What is Interdisciplinarity?</b>
+- <b>Interdisciplinary Study: Advancements in Profession</b>
+- <b>Carpenter V. United States Analysis</b>
+- <b>Balancing LIfe: Work, Leisure, and Living</b>
+- <b>Importance of Employee Health</b>
+- <b>Mock Business Plan</b>
 
 <h2> 🤳 Connect with me:</h2>
 
