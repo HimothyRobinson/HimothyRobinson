@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux Basics and Exploring Virtual Lab Environments </b>
-- <b>System Password Cracking </b>
-  - [Simulation Process Documentation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[System Password Cracking](https://github.com/HimothyRobinson/PasswordCrackingLab.git) </b>
 - <b>Wireless Traffic Analysis </b>
 
 
