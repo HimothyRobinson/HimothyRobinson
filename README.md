@@ -1,4 +1,5 @@
-<h1>Hi, I'm Tim! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Graduate</a>
+<h1>Hi, I'm Tim! <br/>
+  Cybersecurity Graduate</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
