@@ -11,7 +11,7 @@
 
 - <b>Steganography or Steganalysis</b>
 - <b>What is Interdisciplinarity?</b>
-- <b>Interdisciplinary Study: Advancements in Profession</b>
+- <b>[Interdisciplinary Study: Advancements in Profession](https://github.com/HimothyRobinson/InterdisciplinaryStudy.git)</b>
 - <b>[Carpenter V. United States Analysis](https://github.com/HimothyRobinson/CarpenterV.States.git)</b>
 - <b>Balancing LIfe: Work, Leisure, and Living</b>
 - <b>Importance of Employee Health</b>
