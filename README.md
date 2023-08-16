@@ -15,7 +15,7 @@
 - <b>Carpenter V. United States Analysis</b>
 - <b>Balancing LIfe: Work, Leisure, and Living</b>
 - <b>Importance of Employee Health</b>
-- <b>Mock Business Plan</b>
+- <b>[Mock Business Plan](https://github.com/HimothyRobinson/MockBusinessPlan.git)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
