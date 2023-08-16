@@ -9,7 +9,7 @@
 
 <h2>📝 Research Papers:</h2>
 
-- <b>Steganography or Steganalysis</b>
+- <b>[Steganography or Steganalysis](https://github.com/HimothyRobinson/SteganographyOrSteganalysis.git)</b>
 - <b>What is Interdisciplinarity?</b>
 - <b>[Interdisciplinary Study: Advancements in Profession](https://github.com/HimothyRobinson/InterdisciplinaryStudy.git)</b>
 - <b>[Carpenter V. United States Analysis](https://github.com/HimothyRobinson/CarpenterV.States.git)</b>
