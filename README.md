@@ -6,7 +6,7 @@
 - <b>Linux Basics and Exploring Virtual Lab Environments</b>
     - [Linux Basics & Virtual Lab Environement 1](https://github.com/HimothyRobinson/LinuxBasic1.git)
     - [Linux Basics & Virtual Lab Environement 2](https://github.com/HimothyRobinson/LinuxBasic2.git)
-    - [Linux Basics & Virtual Lab Environement 2](https://github.com/HimothyRobinson/LinuxBasic3.git)
+    - [Linux Basics & Virtual Lab Environement 3](https://github.com/HimothyRobinson/LinuxBasic3.git)
 - <b>[System Password Cracking](https://github.com/HimothyRobinson/PasswordCrackingLab.git) </b>
 - <b>[Wireless Traffic Analysis](https://github.com/HimothyRobinson/CrackingAndAnalysisLab.git) </b>
 
